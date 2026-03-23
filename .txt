@@ -1,0 +1,3 @@
+1) rating = 100 coins and after deductions update the coins , rating in backend too .. write the router if not written and update it
+2) view all in recent jobs(opens a page 404 not found)
+3) add a history for transactions and all -> show the history of redeemed courses and all and update in backend too when redeemed and reflect the same in recent history
